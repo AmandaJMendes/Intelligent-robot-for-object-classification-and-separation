@@ -1,6 +1,6 @@
 # Intelligent-robot-for-object-classification-and-separation
 
-This was a final project for the Industrial Automation technical course in the Federal Institute of Rio Grande do Sul (IFRS) developed by me and Kauã Ortiz Silveira. 
+This was a final project for the Industrial Automation technical course in the Federal Institute of Rio Grande do Sul (IFRS) developed by me and Kauã Ortiz Silveira. @KauaOrtiz
 
 ### RISO: Robô Inteligente Separador e Organizador (Intelligent robot for object classification and separation)
 #### Amanda Jorge Mendes, Kauã Ortiz Silveira
